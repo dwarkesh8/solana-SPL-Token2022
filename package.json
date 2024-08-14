@@ -1,0 +1,17 @@
+{
+  "name": "solana-spl-token2022",
+  "version": "1.0.0",
+  "description": "Creating new SPL v2 known as Token22 with Fee or Tax, Minting, Sending Token to Recipient, Withdrawal of Fees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.95.2",
+    "ts-node": "^10.9.2"
+  }
+}
